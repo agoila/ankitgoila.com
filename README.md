@@ -1,6 +1,6 @@
-# Portfolio Site
+# ankitgoila.com
 
-This is a self-contained static portfolio for Ankit Goila. Open `index.html` in a browser to view it.
+This is a self-contained static portfolio for Ankit Goila at `ankitgoila.com`. Open `index.html` in a browser to view it.
 
 ## Quick Edits
 

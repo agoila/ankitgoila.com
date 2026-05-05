@@ -1,8 +1,8 @@
 {
-  "name": "ankit-goila-portfolio",
+  "name": "ankitgoila.com",
   "version": "1.0.0",
   "private": true,
-  "description": "Static portfolio site for Ankit Goila.",
+  "description": "Static portfolio site for ankitgoila.com.",
   "scripts": {
     "start": "npx serve .",
     "deploy": "vercel --prod"
